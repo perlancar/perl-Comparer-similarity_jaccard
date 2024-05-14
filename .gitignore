@@ -1,0 +1,5 @@
+Comparer-similarity_jaccard-*
+.build
+*~
+nytprof*
+.DS_Store
